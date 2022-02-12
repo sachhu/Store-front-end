@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Seller1",
+        "image":"./image/seller1.png"
+        
+    },
+    {
+        "id": 2,
+        "name": "Seller2",
+        "image":"./image/seller2.jpg"
+        
+    },
+    {
+        "id": 3,
+        "name": "Seller3",
+        "image":"./image/seller3.jpg"
+        
+    },
+    {
+        "id": 4,
+        "name": "Seller4",
+        "image":"./image/seller4.png"
+        
+    }
+]
